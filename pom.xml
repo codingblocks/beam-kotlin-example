@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.codingblocks</groupId>
-    <artifactId>kotlin-beam</artifactId>
+    <artifactId>kotlinBeam</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>net.codingblocks kotlin-beam</name>
+    <name>net.codingblocks kotlinBeam</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
